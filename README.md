@@ -10,7 +10,7 @@ Hi there! I'm Fabio a Full Stack Web developer and I am also freelance developer
 
 ## Projects that I built and you can visit it: 
 
-> [Landing Page - Web Professional Portfolio](https://fabiobareiro.github.io/freelance-landing-page/portfolio-profesional/).
-> [Figma Landing Page - Web Professional Portfolio](https://www.figma.com/file/loZg7CcQbLTTPMtOOnPXag/W-Portfolio-Laura?node-id=199%3A200)
+> [Landing Page - Web Professional Portfolio](https://fabiobareiro.github.io/freelance-landing-page/portfolio-profesional/) - 
+ [Figma - Web Professional Portfolio](https://www.figma.com/file/loZg7CcQbLTTPMtOOnPXag/W-Portfolio-Laura?node-id=199%3A200)
 
 
