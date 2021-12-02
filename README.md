@@ -10,4 +10,6 @@ Hi there! I'm Fabio a Full Stack Web developer and I am also freelance developer
 
 ## PROJECTS: 
 
+1 - [Landing Page - Portfolio Professional Web](https://fabiobareiro.github.io/freelance-landing-page/portfolio-profesional/)
+
 
